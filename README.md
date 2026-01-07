@@ -34,7 +34,7 @@ The main advantage of this approach is that it leverages spatial structural info
 
 1. Clone the repository:
 ```bash
-git clone <https://github.com/Namyanyo/PPI-ViT.git>
+git clone https://github.com/Namyanyo/PPI-ViT.git
 ```
 
 2. Install dependencies:
